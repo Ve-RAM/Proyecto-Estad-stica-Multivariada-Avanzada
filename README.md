@@ -126,7 +126,3 @@ Los mejores modelos logran:
 - **Características más importantes:** área habitable, calidad general, ubicación
 
 ---
-
-## Autor
-
-Proyecto de estadística multivariada para análisis de regresión con múltiples técnicas de machine learning.
